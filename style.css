@@ -13,7 +13,8 @@ html {
 
 body {
     font-family: 'helvetica';
-    padding: 0% 4% 0% 4%;
+    /* padding: 0% 4% 0% 4%; */
+    margin: 0 0 0 0;
 }
 
 .text {
@@ -93,7 +94,7 @@ nav {
 
 .PC {
     display: flex;
-    gap: 155px;
+    gap: 150px;
     background-color: #FFE4D6;
 
 }
@@ -103,14 +104,14 @@ nav {
 
  .edu {
     display: flex;
-    gap: 185px;
+    gap: 190px;
 }
 
 /* Job experience */
 
 .job {
     display: flex;
-    gap: 115px;
+    gap: 95px;
     background-color: #FFE4D6;
 }
 
@@ -125,7 +126,7 @@ nav {
 
  .hobby {
     display: flex;
-    gap: 225px;
+    gap: 230px;
     background-color: #FFE4D6;
 
 
@@ -135,7 +136,7 @@ nav {
 
 .other {
     display: flex;
-    gap: 150px;
+    gap: 140px;
     border-bottom: 1px solid black; 
 }
 
